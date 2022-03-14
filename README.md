@@ -1,5 +1,3 @@
-[rafaballerini-main.zip](https://github.com/KURNI4ONE/KURNI4ONE/files/8241338/rafaballerini-main.zip)
-[rafaballerini-main.zip](https://github.com/KURNI4ONE/KURNI4ONE/files/8241340/rafaballerini-main.zip)
 - 👋 Hi, I’m @KURNI4ONE
 - 👀 I’m interested in enginer programing
 - 🌱 I’m currently learning HTML, CSS, and Javascript
